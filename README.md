@@ -63,7 +63,7 @@ I'm open to collaborating on interesting projects.
 
 ## 💬 Languages:
 - **English:** Advanced
-- **Georgian:** Fluent
+- **Georgian:** Native
 - **Russian:** Basic
 
 ## 🌟 Hobbies & Interests:
