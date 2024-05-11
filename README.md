@@ -37,10 +37,10 @@
 - Twitter: [@geolomidze](https://twitter.com/geolomidze)
 
 ## 🚀 My Projects:
-- **[Barambo](#https://barambo.ge)**: A chocolate manufacturer website, written completely in Next.js 14 version, using React server components and server actions. Utilizes Tanstack React Query for infinite scrolling and more. [GitHub](#https://github.com/geo318/barambo)
-- **[Gugulashvili Art](#https://zuragugulashvili.com)**: An online gallery for paintings, written using React and Express. [GitHub](#https://github.com/geo318/gugulashvili-art)
-- **[Movie Quotes](#https://movie-quotes.lomize.com)**: An SPA for movie quotes, where users can register and upload movies and quotes. Features advanced form validations, infinite news feed, and WebSockets for notifications. Written with Next.js on the frontend and Laravel on the backend. [GitHub](#https://github.com/geo318/movie-quotes)
-- **[Online Shop](#https://react-shop.lomize.com)**: A SPA written using React class components, one of the first React projects, originally written in vanilla JS. Uses GraphQL for requests to a dummy backend. [GitHub](#https://github.com/geo318/online-shop)
+- **[Barambo](https://barambo.ge)**: A chocolate manufacturer website, written completely in Next.js 14 version, using React server components and server actions. Utilizes Tanstack React Query for infinite scrolling and more. [GitHub](https://github.com/geo318/barambo)
+- **[Gugulashvili Art](https://zuragugulashvili.com)**: An online gallery for paintings, written using React and Express. [GitHub](https://github.com/geo318/gugulashvili-art)
+- **[Movie Quotes](https://movie-quotes.lomize.com)**: An SPA for movie quotes, where users can register and upload movies and quotes. Features advanced form validations, infinite news feed, and WebSockets for notifications. Written with Next.js on the frontend and Laravel on the backend. [GitHub](https://github.com/geo318/movie-quotes)
+- **[Online Shop](https://react-shop.lomize.com)**: A SPA written using React class components, one of the first React projects, originally written in vanilla JS. Uses GraphQL for requests to a dummy backend. [GitHub](https://github.com/geo318/online-shop)
 
 ## 📚 Articles and Writing:
 - [Medium](https://medium.com/@geo.lomidze) - My articles on technology and programming.
