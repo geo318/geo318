@@ -13,26 +13,34 @@
 - Technologies: Tailwind, Axios, Redux, React Query, Zod, React Hook Form, Storybook etc.
 - Tools: Figma, Jira, Git/Github, CI/CD, Agile.
 
+## 🔨 Currently Working On:
+- Developing an image server API using Bun runtime and Express
+- Technologies: TypeScript, Drizzle ORM (Postrges), Zod, Passport
+- Functionality: Users can register, add an API token, and use the token and API endpoint in their projects to save and get optimized images
+- Planning to add a frontend library to complement the API functionality
+- I'm going to dockerize this project and deploy on AWS`
+
 ## 📚 What I'm Currently Learning:
 - Docker and containerization, AWS (Devops basics generally)
 - Practicing CI/CD
 - Practicing Bun runtime
 - Practicing and learning row SQL querring
 
-## 📫 How to Reach Me:
-- Email: gnakhutsrishvili10@gmail.com
-- LinkedIn: [Giorgi Nakhutsrishvili](https://www.linkedin.com/in/geo318)
-- Twitter: [@giorgi2427](https://twitter.com/geolomidze)
-
-## 🚀 My Projects:
-- [Project 1](#) - Description of project 1.
-- [Project 2](#) - Description of project 2.
-- [Project 3](#) - Description of project 3.
-
 ## 🎯 Goals for the Future:
 - Contribute actively to at least two open-source projects within the next year.
 - Deepen my knowledge in data structures and algorithms by completing a specialized course or series of tutorials.
 - Try out Rust and Golang to expand my programming language skills
+
+## 📫 How to Reach Me:
+- Email: geo.lomidze@gmail.com
+- LinkedIn: [George Lomidze](https://www.linkedin.com/in/geo318)
+- Twitter: [@geolomidze](https://twitter.com/geolomidze)
+
+## 🚀 My Projects:
+- **[Barambo](#https://barambo.ge)**: A chocolate manufacturer website, written completely in Next.js 14 version, using React server components and server actions. Utilizes Tanstack React Query for infinite scrolling and more. [GitHub](#https://github.com/geo318/barambo)
+- **[Gugulashvili Art](#https://zuragugulashvili.com)**: An online gallery for paintings, written using React and Express. [GitHub](#https://github.com/geo318/gugulashvili-art)
+- **[Movie Quotes](#https://movie-quotes.lomize.com)**: An SPA for movie quotes, where users can register and upload movies and quotes. Features advanced form validations, infinite news feed, and WebSockets for notifications. Written with Next.js on the frontend and Laravel on the backend. [GitHub](#https://github.com/geo318/movie-quotes)
+- **[Online Shop](#https://react-shop.lomize.com)**: A SPA written using React class components, one of the first React projects, originally written in vanilla JS. Uses GraphQL for requests to a dummy backend. [GitHub](#https://github.com/geo318/online-shop)
 
 ## 📚 Articles and Writing:
 - [Medium](https://medium.com/@geo.lomidze) - My articles on technology and programming.
