@@ -34,7 +34,7 @@
 ## 📫 How to Reach Me:
 - Email: geo.lomidze@gmail.com
 - LinkedIn: [George Lomidze](https://www.linkedin.com/in/geo318)
-- Twitter: [@geolomidze](https://twitter.com/geolomidze)
+- X: [@geolomidze](https://twitter.com/geolomidze)
 
 ## 🚀 My Projects:
 - **[Barambo](https://barambo.ge)**: A chocolate manufacturer website, written completely in Next.js 14 version, using React server components and server actions. Utilizes Tanstack React Query for infinite scrolling and more. [GitHub](https://github.com/geo318/barambo)
