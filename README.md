@@ -5,87 +5,65 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geo318) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/geo318) 
 
 # 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🛠️ Tools & Technologies I Work With:
-- Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Redux, React Query, React Router, Styled Components, TailwindCSS, Bootstrap
-- Backend: Node.js, Express.js, JWT, Prisma ORM
-- Databases: MongoDB, MySQL, PostgreSQL, Supabase
-- Other: Vite, Apache, Nginx, ESLint, Postman
+- Languages: JavaScript, TypeScript, PHP, SQL, MongoDB, CSS, HTML
+- Frameworks: React, Next.js (RSC), Laravel, Astro, Svelte
+- Technologies: Tailwind, Axios, Redux, React Query, Zod, React Hook Form, Storybook etc.
+- Tools: Figma, Jira, Git/Github, CI/CD, Agile.
 
 ## 📚 What I'm Currently Learning:
-- Advanced React patterns and performance optimization techniques
-- Serverless architecture and deployment strategies
-- GraphQL and its integration with React applications
+- Docker and containerization, AWS (Devops basics generally)
+- Practicing CI/CD
+- Practicing Bun runtime
+- Practicing and learning row SQL querring
 
 ## 📫 How to Reach Me:
 - Email: gnakhutsrishvili10@gmail.com
-- LinkedIn: [Giorgi Nakhutsrishvili](https://www.linkedin.com/in/giorgina)
-- Twitter: [@giorgi2427](https://twitter.com/giorgi2427)
+- LinkedIn: [Giorgi Nakhutsrishvili](https://www.linkedin.com/in/geo318)
+- Twitter: [@giorgi2427](https://twitter.com/geolomidze)
 
 ## 🚀 My Projects:
 - [Project 1](#) - Description of project 1.
 - [Project 2](#) - Description of project 2.
 - [Project 3](#) - Description of project 3.
 
-## 🌱 What I Want to Learn Next:
-- Docker and containerization
-- Advanced testing methodologies for frontend and backend
-- CI/CD pipelines and automation
-
 ## 🎯 Goals for the Future:
-- Contribute to more open-source projects
-- Obtain certifications in relevant technologies
-- Build and launch a successful web application
+- Contribute actively to at least two open-source projects within the next year.
+- Deepen my knowledge in data structures and algorithms by completing a specialized course or series of tutorials.
+- Try out Rust and Golang to expand my programming language skills
 
 ## 📚 Articles and Writing:
-- [Medium](https://medium.com/@giorginaxucrishvili70) - My articles on technology and programming.
+- [Medium](https://medium.com/@geo.lomidze) - My articles on technology and programming.
 
 ## 🤝 Open to Collaboration:
-I'm open to collaborating on interesting projects. If you're looking for a developer to join your team or have a project in mind, feel free to reach out to me.
+I'm open to collaborating on interesting projects.
 
 ## 💼 Experience:
-- **Company Name** (Month Year - Present)<br>
-  *Position:* Junior Front-end Developer<br>
+- **Redberry** (2022 Oct - Present)<br>
+  *Position:* Full-stack Developer<br>
   *Responsibilities:* Developing and maintaining web applications using React, Next.js, and TypeScript. Collaborating with team members on design and implementation.
 
-- **Company Name** (Month Year - Month Year)<br>
-  *Position:* [Your Position]<br>
-  *Responsibilities:* [Brief description of your responsibilities and achievements]
+- **WallyPay** (2021-2022)<br>
+  *Position:* Front-end Developer<br>
+
+- **Auczon** (2021-2022)<br>
+  *Position:* Markup Developer<br>
 
 ## 🎓 Education:
 - **Degree:** Bachelor of Business Administration
-- **University:** [Your University Name]
-- **Graduation:** [Year]
-
-## 🏆 Achievements:
-- [Any relevant achievements or awards]
+- **University:** Caucasus Univercity
+- **Graduation:** 2013
 
 ## 💬 Languages:
-- **English:** Fluent
-- **Other:** [Any other languages you know]
+- **English:** Advanced
+- **Georgian:** Fluent
+- **Russian:** Basic
 
 ## 🌟 Hobbies & Interests:
-- [Your hobbies and interests outside of programming]
-
-## 📝 Blog Posts:
-- [Title of Blog Post](#) - Brief description of the blog post.
-- [Title of Blog Post](#) - Brief description of the blog post.
-- [Title of Blog Post](#) - Brief description of the blog post.
-
-## 📚 Books I Recommend:
-- [Book Title](#) by Author Name - Brief description of why you recommend the book.
-- [Book Title](#) by Author Name - Brief description of why you recommend the book.
-- [Book Title](#) by Author Name - Brief description of why you recommend the book.
-
-## 📫 Newsletter:
-Subscribe to my newsletter for updates on my latest projects and articles.
-
-## ❤️ Support Me:
-If you find my work helpful or inspiring, consider supporting me by buying me a coffee or sponsoring my projects.
-
-## 📄 License:
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
+- Playing chess, and other board games with my friends and family.
+- Watching sci-fi movies and anime.
 
 ---
 
