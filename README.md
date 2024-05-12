@@ -59,7 +59,6 @@ I'm open to collaborating on interesting projects.
 ## 🎓 Education:
 - **Degree:** Bachelor of Business Administration
 - **University:** Caucasus Univercity
-- **Graduation:** 2013
 
 ## 💬 Languages:
 - **English:** Advanced
