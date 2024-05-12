@@ -18,13 +18,13 @@
 - Technologies: TypeScript, Drizzle ORM (Postrges), Zod, Passport
 - Functionality: Users can register, add an API token, and use the token and API endpoint in their projects to save and get optimized images
 - Planning to add a frontend library to complement the API functionality
-- I'm going to dockerize this project and deploy on AWS`
+- I'm going to dockerize this project and possible deploy on AWS
 
 ## 📚 What I'm Currently Learning:
 - Docker and containerization, AWS (Devops basics generally)
 - Practicing CI/CD
 - Practicing Bun runtime
-- Practicing and learning row SQL querring
+- Practicing row SQL querring and optimizations
 
 ## 🎯 Goals for the Future:
 - Contribute actively to at least two open-source projects within the next year.
