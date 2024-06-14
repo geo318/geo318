@@ -45,17 +45,6 @@
 ## 🤝 Open to Collaboration:
 I'm open to collaborating on interesting projects.
 
-## 💼 Experience:
-- **Redberry** (2022 Oct - Present)<br>
-  *Position:* Full-stack Developer<br>
-  *Responsibilities:* Developing and maintaining web applications using React, Next.js, and TypeScript. Collaborating with team members on design and implementation.
-
-- **WallyPay** (2021-2022)<br>
-  *Position:* Front-end Developer<br>
-
-- **Auczon** (2021-2022)<br>
-  *Position:* Markup Developer<br>
-
 ## 🎓 Education:
 - **Degree:** Bachelor of Business Administration
 - **University:** Caucasus Univercity
