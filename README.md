@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate programmer with over 3 years of experience in web development, specializing in technologies like Next.js, React, TypeScript, PHP, Laravel... I thrive on continuous learning and exploring new technologies, always seeking to improve and stay at the vanguard of web development. My focus is on writing performant, maintainable, and readable code.💬 Ask me about any tech-related stuff.<br>📪 How to reach me: Email - geo.lomidze@gmail.com
+🚀 Passionate programmer with over four years of experience in web development, specializing in technologies like Next.js, React, TypeScript, PHP, Laravel... I thrive on continuous learning and exploring new technologies, always seeking to improve and stay at the vanguard of web development. My focus is on writing performant, maintainable, and readable code.💬 Ask me about any tech-related stuff.<br>📪 How to reach me: Email - geo.lomidze@gmail.com
 
 ## 🌐 Connect wth me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geo318) [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/geo318) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/geo318)
