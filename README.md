@@ -10,7 +10,7 @@
 ## 🛠️ Tools & Technologies I Work With:
 - Languages: JavaScript, TypeScript, PHP, SQL, MongoDB, CSS, HTML
 - Frameworks: React, Next.js (RSC), Laravel, Astro, Svelte
-- Technologies: Tailwind, Axios, Redux, React Query, Zod, React Hook Form, Storybook etc.
+- Technologies: Tailwind, Axios, Redux, React Query, TRPC, Zod, React Hook Form, Storybook etc.
 - Tools: Figma, Jira, Git/Github, CI/CD, Agile.
 
 ## 🔨 Currently Working On:
@@ -21,26 +21,19 @@
 - I'm going to dockerize this project and possible deploy on AWS
 
 ## 📚 What I'm Currently Learning:
-- Docker and containerization, AWS (Devops basics generally)
-- Practicing CI/CD
-- Practicing Bun runtime
+- Kubernates, AWS (Devops basics generally)
+- Practicing CI/CD (github actions)
 - Practicing row SQL querring and optimizations
 
 ## 🎯 Goals for the Future:
-- Contribute actively to at least two open-source projects within the next year.
-- Deepen my knowledge in data structures and algorithms by completing a specialized course or series of tutorials.
-- Try out Rust and Golang to expand my programming language skills
+- Learn more things about AI, create my own AI based application.
+- Deepen my knowledge in data structures and algorithms.
+- Try out Rust and Golang to expand my programming skills
 
 ## 📫 How to Reach Me:
 - Email: geo.lomidze@gmail.com
 - LinkedIn: [George Lomidze](https://www.linkedin.com/in/geo318)
 - X: [@geolomidze](https://twitter.com/geolomidze)
-
-## 🚀 My Projects:
-- **[Barambo](https://barambo.ge)**: A chocolate manufacturer website, written completely in Next.js 14 version, using React server components and server actions. Utilizes Tanstack React Query for infinite scrolling and more. [GitHub](https://github.com/geo318/barambo)
-- **[Gugulashvili Art](https://zuragugulashvili.com)**: An online gallery for paintings, written using React and Express. [GitHub](https://github.com/geo318/gugulashvili-art)
-- **[Movie Quotes](https://movie-quotes.lomize.com)**: An SPA for movie quotes, where users can register and upload movies and quotes. Features advanced form validations, infinite news feed, and WebSockets for notifications. Written with Next.js on the frontend and Laravel on the backend. [GitHub](https://github.com/geo318/movie-quotes)
-- **[Online Shop](https://react-shop.lomize.com/categories/all)**: A SPA written using React class components, one of the first React projects, originally written in vanilla JS. Uses GraphQL for requests to a dummy backend. [GitHub](https://github.com/geo318/online-shop)
 
 ## 🤝 Open to Collaboration:
 I'm open to collaborating on interesting projects.
@@ -52,7 +45,6 @@ I'm open to collaborating on interesting projects.
 ## 💬 Languages:
 - **English:** Advanced
 - **Georgian:** Native
-- **Russian:** Basic
 
 ## 🌟 Hobbies & Interests:
 - Playing chess, and other board games with my friends and family.
